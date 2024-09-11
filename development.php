@@ -4,3 +4,4 @@ Test case 2
 Test case 3
 Test case 4
 Test case 5
+Test case 6
